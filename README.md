@@ -52,15 +52,11 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefassal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p>&nbsp;</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefassal&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<!-- STATS AND LANGUAGES SIDE-BY-SIDE -->
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefassal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefassal&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="195" />
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
