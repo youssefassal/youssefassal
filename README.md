@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Assal</h1>
 
-# 💫 About Me:
+💫 About Me:
 I am a Full-Stack Web and DevOps Engineer, currently co-founding Neo Software, where I focus on building modern, scalable digital products for startups and businesses.<br><br>I have hands-on experience designing and developing web applications, building responsive user interfaces, and creating reliable backend systems. Alongside development, I specialize in DevOps practices, including cloud infrastructure, automation, and CI/CD pipelines that improve deployment efficiency and system reliability.<br><br>My technical stack includes React, JavaScript, Node.js, and modern frontend technologies, combined with strong experience in Linux, system administration, containerization, and cloud platforms.<br><br>I am passionate about solving real-world problems through technology, improving development workflows, and building software that delivers measurable business value.
 
 
